@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "postprocessing": "^6.13.5",
+    "three": "file:node_modules/three",
+    "three.js": "^0.77.1"
+  }
+}
